@@ -1,0 +1,21 @@
+stage,treatment,date
+stage4,"['Wigs or hairpieces', 'Scalp micropigmentation services', 'Scalp care products for maintaining a healthy scalp']",2024-03-16 00:23:08
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:23:23
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:24:29
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:24:38
+stage2,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 00:24:58
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:25:11
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:25:17
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:27:15
+stage2,"['Product A', 'Product B']",2024-03-16 00:33:20
+stage2,"['Product A', 'Product B']",2024-03-16 00:43:24
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:43:57
+stage0,"['Product A', 'Product B']",2024-03-16 00:46:11
+stage3,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 00:55:02
+stage1,"['Antibacterial soap', 'Topical antibiotics', 'Tea tree oil-based products']",2024-03-16 00:55:17
+stage3,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 00:55:30
+stage0,"['Minoxidil topical solution', 'Biotin supplements', 'Gentle hair care products']",2024-03-16 00:55:37
+stage1,"['Antibacterial soap', 'Topical antibiotics', 'Tea tree oil-based products']",2024-03-16 01:03:35
+stage2,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 01:07:29
+stage2,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 01:07:57
+stage3,"['Emollient-rich moisturizers', 'Topical corticosteroids', 'Salicylic acid-based products']",2024-03-16 01:08:09
